@@ -4,6 +4,7 @@ Air pollution is a growing concern in urban areas, with significant health risks
 Dataset :
 The project uses data from the Kaggle dataset: Air Quality Data in India (2015–2020). The dataset includes information on various pollutants (PM2.5, PM10, NO2, CO, SO2, etc.), temperature, humidity, and other meteorological factors across multiple Indian cities.
 Link for Dataset- https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
+
 Additional dataset used: Indian Cities Database (provides geospatial information) - Link: https://www.kaggle.com/datasets/parulpandey/indian-cities-database
 
 Technologies and Libraries :
