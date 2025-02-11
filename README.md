@@ -1,3 +1,5 @@
+Air Quality Index (AQI) Prediction
+
 Project Overview :
 Air pollution is a growing concern in urban areas, with significant health risks for residents. This project aims to predict the Air Quality Index (AQI) based on historical data of pollutants and weather conditions in India. Using data analysis, visualization, and machine learning techniques, this project provides insights into air quality trends and builds a foundation for accurate AQI prediction.
 
